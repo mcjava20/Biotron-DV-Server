@@ -3,6 +3,7 @@
 /skin （使用皮肤）
 /sethome （新建一个家） <name> （可填）
 /back (上一个位置）
+/worldlisttrashcan globaltrash （垃圾箱）
 这里你可以把腐肉烧成皮革，烧猪肉、圆石快，鞘翅可以合成，如：6X皮革、1X幻翼膜，可合成。煤炭可以合成黑色染料，黑色染料和铁锭可以合成多个物品。附魔金苹果配方回来了。
 以上是服务器文档，谢谢观看。
 
@@ -13,5 +14,6 @@ This is the document of the Biotron DV server, server address: n2.akiracloud.net
 /skin
 /sethome <name> (optional)
 /back (previous position)
+/worldlisttrashcan globaltrash (bin)
 Here you can burn rotten meat into leather, roast pork, cobblestone fast, elytra can be crafted, such as: 6X leather, 1X phantom wing membrane, can be crafted. Coal can be crafted into black dye, and black dye and iron ingots can be crafted into multiple items. The Enchanted Golden Apple recipe is back.
 The above is the server documentation, thanks for watching.
