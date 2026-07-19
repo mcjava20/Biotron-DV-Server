@@ -1,4 +1,4 @@
-这是生创dv服务器的文档，服务器地址：n2.akiracloud.net:10179。
+这是生创dv服务器的文档，服务器地址：mcjava.xiangmuban.com。
 /jukebox （点歌）
 /skin （使用皮肤）
 /sethome （新建一个家） <name> （可填）
